@@ -23,6 +23,7 @@ const TimelineData = [
   "Skills: HTML5 · Css3 · Tailwind CSS · JavaScript · JavaScript Libraries · React.js · React Hooks · Redux Toolkit · Next.js · GitHub"
     ],
   },
+  
   // {
   //   companyImg: "/nnpc.svg",
   //   jobTitle: "Intern",
@@ -36,6 +37,9 @@ const TimelineData = [
   //   ],
   // },
 ];
+const Education=[
+
+]
 
 export default function Timeline() {
   return (
@@ -60,6 +64,7 @@ export default function Timeline() {
           ))}
         </div>
       </div>
+      <Title>Education</Title>
     </div>
   );
 }
