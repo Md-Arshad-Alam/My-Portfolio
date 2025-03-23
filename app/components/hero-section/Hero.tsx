@@ -124,7 +124,7 @@ export default function Hero() {
             priority
             fill
             alt="Ade's picture"
-            className="bg-image-radial px-10 pt-20"j
+            className="bg-image-radial px-10 pt-20"
           />
         </motion.div>
       </div>
